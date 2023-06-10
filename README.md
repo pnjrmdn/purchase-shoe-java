@@ -3,6 +3,6 @@
 - Java Language
 
 <h3>UI Interface</h3>
-<img src="/Picture.png" alt=""/>
+<img src="/picture.png" alt=""/>
 
  
